@@ -1,0 +1,4 @@
+﻿  RandomNumber.cpp
+C:\Users\aishwarya.anand\OneDrive - Forcepoint\Desktop\swabhav_Techlabs_KannanSir\CppTraining\Basics\RandomNumber\RandomNumber.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\aishwarya.anand\OneDrive - Forcepoint\Desktop\swabhav_Techlabs_KannanSir\CppTraining\Basics\RandomNumber\RandomNumber.cpp(38,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RandomNumber.vcxproj -> C:\Users\aishwarya.anand\OneDrive - Forcepoint\Desktop\swabhav_Techlabs_KannanSir\CppTraining\Basics\RandomNumber\x64\Debug\RandomNumber.exe
